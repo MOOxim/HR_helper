@@ -1,0 +1,6 @@
+@HR_helper_HostAddress = http://localhost:5139
+
+GET {{HR_helper_HostAddress}}/HRhelper/
+Accept: application/json
+
+###
